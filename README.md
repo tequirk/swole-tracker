@@ -1,6 +1,6 @@
 # Swole Tracker
 
-Swole Tracker is a mobile application, built for iOS and Android, that allows you to track your workouts. You can create workouts, add exercises, and log your sets for each exercise.
+Swole Tracker™ is a mobile application, built for iOS and Android, that allows you to track your workouts. You can create workouts, add exercises, and log your sets for each exercise.
 
 ## Installation
 
@@ -13,3 +13,9 @@ Check out the [User Guide](USER_GUIDE.md) for information on how to use the appl
 ## Issues
 
 If you encounter any issues while using the application, please report them [here](https://github.com/tequirk/swole-tracker/issues).
+
+
+
+---
+
+Copyright © 2025 Tequirk LLC. All Rights Reserved.
