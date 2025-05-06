@@ -13,6 +13,7 @@ Please note that the Application utilizes third-party services that have their o
 *   [Apple App Store](https://www.apple.com/legal)
 *   [Google Play Services](https://policies.google.com/terms)
 *   [Expo](https://expo.io/terms)
+*   [Sentry](https://sentry.io/legal)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
