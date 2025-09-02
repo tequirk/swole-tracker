@@ -4,7 +4,9 @@ Swole Tracker™ is a mobile application, built for iOS and Android, that allows
 
 ## Installation
 
-Coming soon! This application is currently in development and not yet available for download on the Google Play or Apple App Store.
+Find us [here on the Apple App Store](https://apps.apple.com/us/app/swole-tracker/id6751657444).
+
+Coming soon to the Google Play Store!
 
 ## Usage
 
